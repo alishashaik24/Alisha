@@ -1,0 +1,33 @@
+h2{
+  color: rgb(211, 183, 61);
+  margin-left: 100px;
+}
+.exp{
+  margin-left:150px;
+  padding: 20px;
+  border-radius: 2%;
+  transition: transform ,2s;
+  width: 950px;
+  height: 140px;
+  background-color: rgb(255, 255, 250);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 12px;
+}
+.exp:hover{
+  transform: scale(1.05);
+}
+
+.logo-image {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.flex-container {
+  display: flex;
+}
+.flex-child:first-child {
+  margin-right: 60px;
+}
+.navbar-brand{
+  margin-top: -10px;;
+  color: rgb(93, 178, 248);
+}

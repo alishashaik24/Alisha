@@ -1,0 +1,55 @@
+h2{
+  color: rgb(105, 197, 101);
+  margin-left: 100px;
+}
+.exp{
+  margin-left:150px;
+  padding: 20px;
+  border-radius: 2%;
+  transition: transform ,2s;
+  width: 500px;
+  height: 140px;
+  background-color: rgb(255, 255, 250);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 12px;
+}
+.exp:hover{
+  transform: scale(1.05);
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  overflow: hidden;
+}
+.flex-container {
+  display: flex;
+}
+.flex-child:first-child {
+  margin-right: 50px;
+}
+.navbar-brand{
+  margin-top: -10px;;
+  color: rgb(93, 178, 248);
+}
+.github, .github:hover, .npm:hover, .react:hover {
+    color: #fff;
+}
+.github {
+    background-color: #808080;
+}
+.btn {
+    height: 25px;
+    min-width: 64px;
+    padding: 1px 4px;
+    outline: none!important;
+}
+.flex-childy:first-child {
+  margin-right: 20px;
+}
+.logo-image1{
+  width: 100px;
+}
+.abt{
+margin-top: 6px;
+color: rgb(216, 131, 250);
+}
